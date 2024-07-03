@@ -1,4 +1,3 @@
-Here is the structured and formatted README for the "About Us" page described in your HTML:
 
 # About Us Page
 
